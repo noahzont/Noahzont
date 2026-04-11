@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## How tf does this shit work. I have'nt coded in years 💔
 <!--
 **noahzont/Noahzont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
