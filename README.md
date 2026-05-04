@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 "Did you get your taste back? You just need a little love."
+
+  <img src="[logo.png](https://lousolversons.tumblr.com/post/779210497676427264/gerran-howell-as-dennis-whittaker-in-the-pitt)" alt="Gif"> 
