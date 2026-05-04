@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 "Did you get your taste back? You just need a little love."
 
 
-<img src="IMG_2792.gif" alt="A descriptive text of the image">
+<img src="IMG_2792.gif" alt="Dennis Gif">
