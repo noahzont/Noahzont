@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 "Did you get your taste back? You just need a little love."
 
-<a href="IMG_2792.gif">
+<img src="IMG_2792.gif" alt="Description" style="max-width: 100%; height: auto;">
+
