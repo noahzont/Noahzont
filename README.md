@@ -1,4 +1,4 @@
-## How tf does this shit work. I have'nt coded in years 💔
+Togachako ily
 <!--
 **noahzont/Noahzont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-"Did you get your taste back? You just need a little love."
+"You think... I'm cute?"
 
 
 <img src="IMG_2851.jpeg" alt="togachako art">
+
+
+"The cutest in girl in the world..."
