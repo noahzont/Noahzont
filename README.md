@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 "Did you get your taste back? You just need a little love."
 
 
-<img src="IMG_2683.jpeg" alt="Dennis Gif">
+<img src="IMG_2851.jpeg" alt="togachako art">
