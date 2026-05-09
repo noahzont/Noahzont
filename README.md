@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 "Did you get your taste back? You just need a little love."
 
 
-<IMG_2851.jpeg">
+<a href="IMG_2851.jpeg">
